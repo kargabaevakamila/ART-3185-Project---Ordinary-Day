@@ -1,0 +1,20 @@
+AN ORDINARY DAY - final website
+
+Open index.html in a browser to view it. Keep the photos folder next to it.
+
+Folder layout
+  index.html            the website
+  photos/home.jpg       the photo behind the title on the home page
+  photos/original/      the unedited photos (revealed under the magnifier)
+                        12-same-palms-day.jpg is the daytime photo used in scene 12
+  photos/edited/        the Photoshop edits (what each photo shows first)
+                        13-ripe-or-not-<type>.jpg are the four colour vision versions
+
+To replace a photo
+  Save the new JPEG (about 2000 px wide) with exactly the same file name in the same folder.
+
+To change titles, captions or the About page table
+  Open index.html in a text editor and find "EDIT HERE". Each photo is one block in that list.
+
+To put it online
+  Upload the whole folder (index.html plus the photos folder). Keep the folder structure.
